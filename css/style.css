@@ -1,0 +1,11 @@
+/* Add all your styles here */
+body{
+  background-color: gray;
+  color: white;
+}
+a{
+  text-decoration: none;
+  background-color: black;
+  padding: 10px;
+  color: red;
+}
